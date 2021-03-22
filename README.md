@@ -4,3 +4,14 @@ This list was put together by the Networking Archives team. A list of subscriber
 
 To this were added a number of subscribers additionally identified, who are not on this list either because they joined afterwards or had dropped off before the list was created. 
 
+There are four fields: 
+
+spo_id = the unique internal ID used by the Networking Archives project.
+
+name = Name as it appears in State Papers Online or following disambiguation process.
+
+service = newsletters were sent three times per week, and the service subscribed to by each was recorded by Ball in the list.
+
+payment = record of payment, if any. Those who did not pay were usually either friends of Williamson or they promised to send a weekly letter of news to the office in return. 
+
+Some names are repeated, as they signed up to multiple services. 
